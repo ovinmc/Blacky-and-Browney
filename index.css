@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: calibri;
+    font-weight: bold;
+}
+
+.band{
+    display: flex;
+    justify-content: center;
+}
+
+.bell{
+    display: flex;
+    justify-content: right;
+}
+
+.spc{
+    display: flex;
+    justify-content: center;
+}
+
+.hut{
+    display: flex;
+    justify-content: center;
+}
+
+.ovin{
+    display: flex;
+    justify-content: right;
+}
+
+img{
+    padding: 20px;
+}
+
+body{
+    background-color: #8debfc;
+}
